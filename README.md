@@ -11,5 +11,5 @@ https://github.com/Osix-Enterprise/Security/blob/main/CONTRATO%20DE%20CONFIDENCI
 
 
 Tambien les dejamos el apartado de _subnetting_ que hemos pensado para que toda la red de su empresa fluya perfectamente
-https://github.com/Osix-Enterprise/Security/blob/main/Subnetting%20para%20NNL.pdf
+https://github.com/Osix-Enterprise/Security/blob/main/NNL%20subnetting.pkt
 
